@@ -14,9 +14,7 @@ body{
     margin: 0;
 }
 
-h1{
-    color: white;
-    font-size: 4rem;
+img{
     position: absolute;
     left: 50%;
     top: 20%;
@@ -30,7 +28,7 @@ h1{
     align-items: center;
     justify-content: center;
     left: 50%;
-    top: 40%;
+    top: 60%;
     transform: translateX(-50%);
     text-decoration: none;
     color: white;
